@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Software Engineer at Xelpmoc Design And Tech Limited. ...
-- 💬 Ask me about web development as long as its Javascript :)...
+- 💬 Ask me about web development as I am a highly self-motivated web developer who spends most of his time building applications, learning new things and keeping myself up-to-date with the latest technologies.
+- Proficient in React.js & currently exploring Next.js.
 - 📫 How to reach me: https://www.linkedin.com/in/abhay-chandra/
-- I Know React.js | Redux.js Toolkit | Node.js | HTML/CSS | JavaScript | C/C++ | MySql | MongoDB | FireBase
+- I Know React.js | Redux.js Toolkit | Next.js | Node.js | HTML/CSS | JavaScript | C/C++ | MySql | MongoDB | FireBase
 
 https://abhay001.vercel.app/
  
